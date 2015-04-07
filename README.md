@@ -1,1 +1,1 @@
-* update from remote test
+$ update from local test and remote test
